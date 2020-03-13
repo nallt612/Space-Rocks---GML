@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "03dc73e1-7387-4995-9425-d68721e60aad",
+            "Value": {
+                "id": "195b7712-b847-4f98-bc2a-8ee29be14f5e",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "062e69af-d7e4-4500-b92d-38a771654fee",
             "Value": {
                 "id": "00216ed0-8693-4899-a50c-b22fccf3d46e",
                 "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "06ce293d-32be-420f-b123-a494190ca8f1",
+            "Value": {
+                "id": "db2e374f-b4f0-4549-a849-350d0aed086b",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -108,6 +124,14 @@
                 "id": "63925a18-5fe8-4afb-ab4d-318fc5c37b85",
                 "resourcePath": "views\\57a1651e-354e-48df-aa53-f19efa7bf791.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5818c41f-a636-4ed3-970e-b76659015a22",
+            "Value": {
+                "id": "544fe880-1ce3-4b7b-a03e-70d73baa8366",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -260,6 +284,22 @@
                 "id": "2e9db0b4-284f-4c0b-b142-3b76ecea157f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7f3d47c-e0c5-418a-8239-fe42bb405c4c",
+            "Value": {
+                "id": "10c3bd52-8c1f-4d39-9d3c-9757c6b204ce",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "f923b0fe-d7f1-46ef-8960-65650c3f7292",
+            "Value": {
+                "id": "66f8aef4-f18e-4dd2-a650-306f9dfb3e3b",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

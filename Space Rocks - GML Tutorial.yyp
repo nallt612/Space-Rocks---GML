@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "062e69af-d7e4-4500-b92d-38a771654fee",
+            "Value": {
+                "id": "00216ed0-8693-4899-a50c-b22fccf3d46e",
+                "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0d7c1f79-265e-4265-a2a2-721c0ebdec6a",
+            "Value": {
+                "id": "9c0d98b2-c480-43d7-abeb-d607b258c1b0",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10b5731b-996c-4be6-927a-71137788a297",
             "Value": {
                 "id": "0c6dc119-2c52-499a-b134-5eab0e5d59a4",
@@ -172,6 +188,14 @@
                 "id": "1b653748-d75e-4f28-80a7-e8bbb20ed8fd",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aaa14063-809f-4b44-8e63-ba246f441b2e",
+            "Value": {
+                "id": "bc9712b6-497f-4dad-b3cb-3def61151612",
+                "resourcePath": "objects\\obj_debris\\obj_debris.yy",
+                "resourceType": "GMObject"
             }
         },
         {
